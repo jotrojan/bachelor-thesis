@@ -6,4 +6,4 @@
 
 ---
 
-This work forms part of a bachelor’s thesis titled *Non‑uniqueness of gravitational field initial data in spherical symmetry* at the Faculty of Nuclear Sciences and Physical Engineering, Czech Technical University in Prague.
+This work serves as a supplement to the bachelor thesis titled *Non‑uniqueness of gravitational field initial data in spherical symmetry* at the Faculty of Nuclear Sciences and Physical Engineering, Czech Technical University in Prague.
